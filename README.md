@@ -24,3 +24,9 @@ Feel free to reach out if you want to talk tech, discuss business solutions, or 
 ---
 
 I look forward to collaborating and building innovative solutions together. ✨
+
+
+### Credly Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
