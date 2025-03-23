@@ -2,10 +2,10 @@ name: Update badges
 
 permissions:
   contents: write
+
 on:
-  schedule:
-    # Runs at 2am UTC
-    - cron: "*/2 * * * *"
+  workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with badges
