@@ -1,5 +1,7 @@
 name: Update badges
 
+permissions:
+  contents: write
 on:
   schedule:
     # Runs at 2am UTC
@@ -13,3 +15,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: simon-stirling
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
