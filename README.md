@@ -26,7 +26,7 @@ Feel free to reach out if you want to talk tech, discuss business solutions, or 
 I look forward to collaborating and building innovative solutions together. ✨
 
 
-### Credly Badges
+### Badges & Certificates
 
 <!--START_SECTION:badges-->
 [![AI Agents Using RAG and LangChain](https://images.credly.com/size/110x110/images/bc1ee755-d8b5-4068-91fa-60a6e05f12dc/Coursera_20AI_20Agents_20Using_20RAG_20and_20LangChain.png)](http://www.credly.com/badges/57eb061a-70d9-469f-a20e-27eed0deb779 "AI Agents Using RAG and LangChain")
@@ -40,3 +40,47 @@ I look forward to collaborating and building innovative solutions together. ✨
 [![Google Cybersecurity Certificate V2](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/d3d2775a-0a09-4799-91e7-bb77f7783de7 "Google Cybersecurity Certificate V2")
 [![Google Project Management Certificate (v1)](https://images.credly.com/size/110x110/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)](http://www.credly.com/badges/5b25878f-65c5-48c1-87f4-fe1e3cf38e8c "Google Project Management Certificate (v1)")
 <!--END_SECTION:badges-->
+
+
+
+
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TA6NTYVHP43P/CERTIFICATE_LANDING_PAGE~TA6NTYVHP43P.jpeg)](https://www.coursera.org/account/accomplishments/professional-cert/TA6NTYVHP43P)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~G2OBDCWVM39Y/CERTIFICATE_LANDING_PAGE~G2OBDCWVM39Y.jpeg)](https://www.coursera.org/account/accomplishments/professional-cert/G2OBDCWVM39Y)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WMS8ATILWN67/CERTIFICATE_LANDING_PAGE~WMS8ATILWN67.jpeg)](https://www.coursera.org/account/accomplishments/professional-cert/WMS8ATILWN67)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~AZSOQ8YVBUNT/CERTIFICATE_LANDING_PAGE~AZSOQ8YVBUNT.jpeg)](https://www.coursera.org/account/accomplishments/professional-cert/AZSOQ8YVBUNT)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~AT0AJZO3CCN1/CERTIFICATE_LANDING_PAGE~AT0AJZO3CCN1.jpeg)](https://www.coursera.org/account/accomplishments/records/AT0AJZO3CCN1)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~L4LJAQXJJL03/CERTIFICATE_LANDING_PAGE~L4LJAQXJJL03.jpeg)](https://www.coursera.org/account/accomplishments/records/L4LJAQXJJL03)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~J1J189276JZT/CERTIFICATE_LANDING_PAGE~J1J189276JZT.jpeg)](https://www.coursera.org/account/accomplishments/records/J1J189276JZT)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~47NCPRK9POIJ/CERTIFICATE_LANDING_PAGE~47NCPRK9POIJ.jpeg)](https://www.coursera.org/account/accomplishments/records/47NCPRK9POIJ)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~VCXYDOBPBJLW/CERTIFICATE_LANDING_PAGE~VCXYDOBPBJLW.jpeg)](https://www.coursera.org/account/accomplishments/records/VCXYDOBPBJLW)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~3HHBC7JW6XNS/CERTIFICATE_LANDING_PAGE~3HHBC7JW6XNS.jpeg)](https://www.coursera.org/account/accomplishments/records/3HHBC7JW6XNS)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~QK42CQTK7AWW/CERTIFICATE_LANDING_PAGE~QK42CQTK7AWW.jpeg)](https://www.coursera.org/account/accomplishments/records/QK42CQTK7AWW)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~S7LGTWAGN3WX/CERTIFICATE_LANDING_PAGE~S7LGTWAGN3WX.jpeg)](https://www.coursera.org/account/accomplishments/records/S7LGTWAGN3WX)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ORFJBC9MP3YC/CERTIFICATE_LANDING_PAGE~ORFJBC9MP3YC.jpeg)](https://www.coursera.org/account/accomplishments/records/ORFJBC9MP3YC)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~QNCGNZLIOG7P/CERTIFICATE_LANDING_PAGE~QNCGNZLIOG7P.jpeg)](https://www.coursera.org/account/accomplishments/records/QNCGNZLIOG7P)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~O7KF14SYW3TM/CERTIFICATE_LANDING_PAGE~O7KF14SYW3TM.jpeg)](https://www.coursera.org/account/accomplishments/records/O7KF14SYW3TM)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~1YRI65D1ZKZR/CERTIFICATE_LANDING_PAGE~1YRI65D1ZKZR.jpeg)](https://www.coursera.org/account/accomplishments/records/1YRI65D1ZKZR)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~X6S2HV1DJVUT/CERTIFICATE_LANDING_PAGE~X6S2HV1DJVUT.jpeg)](https://www.coursera.org/account/accomplishments/records/X6S2HV1DJVUT)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SMJKQCROSH7U/CERTIFICATE_LANDING_PAGE~SMJKQCROSH7U.jpeg)](https://www.coursera.org/account/accomplishments/records/SMJKQCROSH7U)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~84SJHAOI2S5R/CERTIFICATE_LANDING_PAGE~84SJHAOI2S5R.jpeg)](https://www.coursera.org/account/accomplishments/records/84SJHAOI2S5R)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9SNF4PJN6RWC/CERTIFICATE_LANDING_PAGE~9SNF4PJN6RWC.jpeg)](https://www.coursera.org/account/accomplishments/records/9SNF4PJN6RWC)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6PYEOTM94ZU9/CERTIFICATE_LANDING_PAGE~6PYEOTM94ZU9.jpeg)](https://www.coursera.org/account/accomplishments/records/6PYEOTM94ZU9)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~VEKB8AKZ7EOP/CERTIFICATE_LANDING_PAGE~VEKB8AKZ7EOP.jpeg)](https://www.coursera.org/account/accomplishments/records/VEKB8AKZ7EOP)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~0JMQC3VT0RD4/CERTIFICATE_LANDING_PAGE~0JMQC3VT0RD4.jpeg)](https://www.coursera.org/account/accomplishments/records/0JMQC3VT0RD4)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~MAKRUQZC7P0C/CERTIFICATE_LANDING_PAGE~MAKRUQZC7P0C.jpeg)](https://www.coursera.org/account/accomplishments/records/MAKRUQZC7P0C)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YM5RRAH012R0/CERTIFICATE_LANDING_PAGE~YM5RRAH012R0.jpeg)](https://www.coursera.org/account/accomplishments/records/YM5RRAH012R0)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~93KGWVVQRUDW/CERTIFICATE_LANDING_PAGE~93KGWVVQRUDW.jpeg)](https://www.coursera.org/account/accomplishments/records/93KGWVVQRUDW)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JQYVQJCKD49J/CERTIFICATE_LANDING_PAGE~JQYVQJCKD49J.jpeg)](https://www.coursera.org/account/accomplishments/records/JQYVQJCKD49J)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KHF5CZO4MN7L/CERTIFICATE_LANDING_PAGE~KHF5CZO4MN7L.jpeg)](https://www.coursera.org/account/accomplishments/records/KHF5CZO4MN7L)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4YPSKCW9Z4PS/CERTIFICATE_LANDING_PAGE~4YPSKCW9Z4PS.jpeg)](https://www.coursera.org/account/accomplishments/records/4YPSKCW9Z4PS)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YR4CMEIEZIKK/CERTIFICATE_LANDING_PAGE~YR4CMEIEZIKK.jpeg)](https://www.coursera.org/account/accomplishments/records/YR4CMEIEZIKK)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~OQKACHZJEHAQ/CERTIFICATE_LANDING_PAGE~OQKACHZJEHAQ.jpeg)](https://www.coursera.org/account/accomplishments/records/OQKACHZJEHAQ)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HLFWU9LQWKEQ/CERTIFICATE_LANDING_PAGE~HLFWU9LQWKEQ.jpeg)](https://www.coursera.org/account/accomplishments/records/HLFWU9LQWKEQ)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~QFC74LUMKSDL/CERTIFICATE_LANDING_PAGE~QFC74LUMKSDL.jpeg)](https://www.coursera.org/account/accomplishments/records/QFC74LUMKSDL)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GG94WNVZ9MLU/CERTIFICATE_LANDING_PAGE~GG94WNVZ9MLU.jpeg)](https://www.coursera.org/account/accomplishments/records/GG94WNVZ9MLU)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~XY3WVKHQZNK8/CERTIFICATE_LANDING_PAGE~XY3WVKHQZNK8.jpeg)](https://www.coursera.org/account/accomplishments/records/XY3WVKHQZNK8)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~7BGR3HYYALWB/CERTIFICATE_LANDING_PAGE~7BGR3HYYALWB.jpeg)](https://www.coursera.org/account/accomplishments/records/7BGR3HYYALWB)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JEW3AJ2EVATY/CERTIFICATE_LANDING_PAGE~JEW3AJ2EVATY.jpeg)](https://www.coursera.org/account/accomplishments/records/JEW3AJ2EVATY)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~F44CJCASFM3K/CERTIFICATE_LANDING_PAGE~F44CJCASFM3K.jpeg)](https://www.coursera.org/account/accomplishments/records/F44CJCASFM3K)
+[![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WTKQRTS4AEXR/CERTIFICATE_LANDING_PAGE~WTKQRTS4AEXR.jpeg)](https://www.coursera.org/account/accomplishments/records/WTKQRTS4AEXR)
+
