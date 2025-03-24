@@ -29,6 +29,8 @@ I look forward to collaborating and building innovative solutions together. ✨
 ### Badges & Certificates
 
 <!--START_SECTION:badges-->
+[![Generative AI Applications Specialist](https://images.credly.com/size/110x110/images/cdb44549-e7b6-47e7-a21f-160cecf8f38f/Coursera_20Generative_20AI_20Applications_20Specialist.png)](http://www.credly.com/badges/e77d0e6a-ecf2-4989-999b-9bc273020287 "Generative AI Applications Specialist")
+[![IBM Generative AI Engineering Professional Certificate](https://images.credly.com/size/110x110/images/468eaf1a-197c-44e2-9bd1-2f75bb7b5feb/Coursera_20IBM_20Generative_20AI_20Engineering_20Prof_20Cert.png)](http://www.credly.com/badges/400f8a39-c266-4781-8840-9d2a6232923f "IBM Generative AI Engineering Professional Certificate")
 [![Generative AI Advanced Fine-Tuning for LLMs](https://images.credly.com/size/110x110/images/e61e6ff9-3502-4d64-b726-64f932ffbf02/Coursera_20Generative_20AI_20Advanced_20Fine_20Tuning_20for_20LLMs.png)](http://www.credly.com/badges/c07689c5-bffd-4e38-b5bf-ae3ce2fdbe3c "Generative AI Advanced Fine-Tuning for LLMs")
 [![Generative AI Engineering with Transformers & LLMs](https://images.credly.com/size/110x110/images/6387f397-234b-480c-a0a0-4f9d6f8654a8/blob)](http://www.credly.com/badges/0b3ffd03-7dd7-4c99-b668-fe1627aaf06a "Generative AI Engineering with Transformers & LLMs")
 [![Generative AI Language Modeling with Transformers](https://images.credly.com/size/110x110/images/bc7582ae-95c6-4e92-a425-d355c65b7d10/image.png)](http://www.credly.com/badges/8987f149-31a7-46e7-a9b4-d5315461f441 "Generative AI Language Modeling with Transformers")
