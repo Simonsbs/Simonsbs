@@ -29,6 +29,7 @@ I look forward to collaborating and building innovative solutions together. ✨
 ### Badges & Certificates
 
 <!--START_SECTION:badges-->
+[![Cybersecurity Compliance Framework, Standards & Regulations](https://images.credly.com/size/110x110/images/e369b69d-cad6-4eb2-b869-a0b13498cefb/blob)](http://www.credly.com/badges/bce7b9f0-2a4f-488c-8a7d-b2866282edf5 "Cybersecurity Compliance Framework, Standards & Regulations")
 [![Chatbot Building Essentials with IBM watsonx Assistant (V2)](https://images.credly.com/size/110x110/images/0680be6a-7c03-4c38-912c-7f1c2429364b/Coursera_20Chatbot_20Bldg_20Essen_20with_20watsonx_20Assist_20V2.png)](http://www.credly.com/badges/3139789b-5551-435b-bbf7-2353da45385c "Chatbot Building Essentials with IBM watsonx Assistant (V2)")
 [![Cybersecurity Job Search, Resume, and Interview Prep](https://images.credly.com/size/110x110/images/a6525eb2-4761-4bdf-b9a0-d28219d5a8ae/image.png)](http://www.credly.com/badges/6c816f53-f1f2-4133-a37a-5c2da8b554bb "Cybersecurity Job Search, Resume, and Interview Prep")
 [![IBM Cybersecurity Analyst Professional Certificate (V2)](https://images.credly.com/size/110x110/images/2f194645-bbf5-4f75-a48c-aba81d29e592/Coursera_20IBM_20Cybersecurity_20Analyst_20Professional_20Certificate_20V2.png)](http://www.credly.com/badges/07d432af-01b9-485e-b7f3-a765f078ac22 "IBM Cybersecurity Analyst Professional Certificate (V2)")
