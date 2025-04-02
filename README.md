@@ -62,7 +62,7 @@ I look forward to collaborating and building innovative solutions together. ✨
 [![Generative AI Essentials](https://images.credly.com/size/110x110/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png)](http://www.credly.com/badges/c7eed888-e9b3-4c17-ac67-9c23a4147a67 "Generative AI Essentials")
 [![Machine Learning with Python (V2)](https://images.credly.com/size/110x110/images/56c60565-e945-4bcd-b8a6-9b2f43e1b0d9/Coursera_20Machine_20Learning_20with_20Python_20V2.png)](http://www.credly.com/badges/025869c0-5892-4971-b60c-bd4187096546 "Machine Learning with Python (V2)")
 [![Artificial Intelligence Essentials V2](https://images.credly.com/size/110x110/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png)](http://www.credly.com/badges/5b90a9c4-e549-411e-b733-cea56c69eaab "Artificial Intelligence Essentials V2")
-[![Google Cybersecurity Certificate V2](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/d3d2775a-0a09-4799-91e7-bb77f7783de7 "Google Cybersecurity Certificate V2")
+[![Google Cybersecurity Professional Certificate V2](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/d3d2775a-0a09-4799-91e7-bb77f7783de7 "Google Cybersecurity Professional Certificate V2")
 [![Google Project Management Certificate (v1)](https://images.credly.com/size/110x110/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)](http://www.credly.com/badges/5b25878f-65c5-48c1-87f4-fe1e3cf38e8c "Google Project Management Certificate (v1)")
 <!--END_SECTION:badges-->
 
