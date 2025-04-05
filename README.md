@@ -29,6 +29,8 @@ I look forward to collaborating and building innovative solutions together. ✨
 ### Badges & Certificates
 
 <!--START_SECTION:badges-->
+[![Calculus I (MATH1040)](https://images.credly.com/size/110x110/images/94bfc800-bb1c-4a50-b181-2d774b03fc00/image.png)](http://www.credly.com/badges/5e5735f5-92be-4be9-957a-736782797c68 "Calculus I (MATH1040)")
+[![Introduction to College Mathematics (MATH1020)](https://images.credly.com/size/110x110/images/c65300f1-50c1-4b8a-a9f9-bf316c974c39/blob)](http://www.credly.com/badges/b7f05631-abbb-4c55-9ee9-2392a97dd630 "Introduction to College Mathematics (MATH1020)")
 [![College Algebra (CA1001)](https://images.credly.com/size/110x110/images/b76299be-5bed-4ab9-b8f6-d7122c710696/image.png)](http://www.credly.com/badges/a105f18e-e51e-4c0a-beeb-6c9291043de7 "College Algebra (CA1001)")
 [![Cybersecurity Compliance Framework, Standards & Regulations](https://images.credly.com/size/110x110/images/e369b69d-cad6-4eb2-b869-a0b13498cefb/blob)](http://www.credly.com/badges/bce7b9f0-2a4f-488c-8a7d-b2866282edf5 "Cybersecurity Compliance Framework, Standards & Regulations")
 [![Chatbot Building Essentials with IBM watsonx Assistant (V2)](https://images.credly.com/size/110x110/images/0680be6a-7c03-4c38-912c-7f1c2429364b/Coursera_20Chatbot_20Bldg_20Essen_20with_20watsonx_20Assist_20V2.png)](http://www.credly.com/badges/3139789b-5551-435b-bbf7-2353da45385c "Chatbot Building Essentials with IBM watsonx Assistant (V2)")
