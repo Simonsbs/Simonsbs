@@ -29,6 +29,7 @@ I look forward to collaborating and building innovative solutions together. ✨
 ### Badges & Certificates
 
 <!--START_SECTION:badges-->
+[![Conflict Resolution (ConRes1001)](https://images.credly.com/size/110x110/images/22ef9be7-262e-4cc0-b40d-dd5251cc15ba/image.png)](http://www.credly.com/badges/3b9a6f76-8f48-46d4-9f30-d4ad0d3f717a "Conflict Resolution (ConRes1001)")
 [![Introduction to Statistics (STAT1001)](https://images.credly.com/size/110x110/images/47c088e0-cb13-489a-975f-17c2fa35029a/blob)](http://www.credly.com/badges/ad6184ff-4236-44c2-a966-386638fee369 "Introduction to Statistics (STAT1001)")
 [![Calculus I (MATH1040)](https://images.credly.com/size/110x110/images/94bfc800-bb1c-4a50-b181-2d774b03fc00/image.png)](http://www.credly.com/badges/5e5735f5-92be-4be9-957a-736782797c68 "Calculus I (MATH1040)")
 [![Introduction to College Mathematics (MATH1020)](https://images.credly.com/size/110x110/images/c65300f1-50c1-4b8a-a9f9-bf316c974c39/blob)](http://www.credly.com/badges/b7f05631-abbb-4c55-9ee9-2392a97dd630 "Introduction to College Mathematics (MATH1020)")
