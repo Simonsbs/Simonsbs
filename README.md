@@ -29,6 +29,8 @@ I look forward to collaborating and building innovative solutions together. ✨
 ### Badges & Certificates
 
 <!--START_SECTION:badges-->
+[![Microeconomics (ECON1002)](https://images.credly.com/size/110x110/images/48f1ccf5-31a8-4217-ba7e-6c5fc458bf31/image.png)](http://www.credly.com/badges/28d0f668-abc0-4e27-8f13-9c04e021ce8a "Microeconomics (ECON1002)")
+[![Project Management (PM1001)](https://images.credly.com/size/110x110/images/a48f3ef4-ad29-4a58-976d-49d1276ba883/image.png)](http://www.credly.com/badges/bc010fb5-9a75-4b1b-8708-00481c6e4767 "Project Management (PM1001)")
 [![Introduction to Ethics (PHIL1002)](https://images.credly.com/size/110x110/images/6e6d8345-8e95-443e-9bef-0428826cf6ad/image.png)](http://www.credly.com/badges/92fe3dc0-7525-4774-acba-584045ac366c "Introduction to Ethics (PHIL1002)")
 [![Financial Accounting (BUSI 1010)](https://images.credly.com/size/110x110/images/26244778-10d5-4c90-b2ea-b1a75dbd47a4/image.png)](http://www.credly.com/badges/900d6aae-2c57-45cd-8644-f34918548d60 "Financial Accounting (BUSI 1010)")
 [![Conflict Resolution (ConRes1001)](https://images.credly.com/size/110x110/images/22ef9be7-262e-4cc0-b40d-dd5251cc15ba/image.png)](http://www.credly.com/badges/3b9a6f76-8f48-46d4-9f30-d4ad0d3f717a "Conflict Resolution (ConRes1001)")
