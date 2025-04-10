@@ -29,6 +29,7 @@ I look forward to collaborating and building innovative solutions together. ✨
 ### Badges & Certificates
 
 <!--START_SECTION:badges-->
+[![English Composition I (ENG1001)](https://images.credly.com/size/110x110/images/70b118fc-ca7f-4513-b55f-54ee93214edf/image.png)](http://www.credly.com/badges/1a4d6de8-bd48-4c4b-b213-9e4f9f991838 "English Composition I (ENG1001)")
 [![Microeconomics (ECON1002)](https://images.credly.com/size/110x110/images/48f1ccf5-31a8-4217-ba7e-6c5fc458bf31/image.png)](http://www.credly.com/badges/28d0f668-abc0-4e27-8f13-9c04e021ce8a "Microeconomics (ECON1002)")
 [![Project Management (PM1001)](https://images.credly.com/size/110x110/images/a48f3ef4-ad29-4a58-976d-49d1276ba883/image.png)](http://www.credly.com/badges/bc010fb5-9a75-4b1b-8708-00481c6e4767 "Project Management (PM1001)")
 [![Introduction to Ethics (PHIL1002)](https://images.credly.com/size/110x110/images/6e6d8345-8e95-443e-9bef-0428826cf6ad/image.png)](http://www.credly.com/badges/92fe3dc0-7525-4774-acba-584045ac366c "Introduction to Ethics (PHIL1002)")
