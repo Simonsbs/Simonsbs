@@ -29,6 +29,8 @@ I look forward to collaborating and building innovative solutions together. ✨
 ### Badges & Certificates
 
 <!--START_SECTION:badges-->
+[![Environmental Science (ENVS1001)](https://images.credly.com/size/110x110/images/c8d4447e-1caf-4147-a852-0f564707dcaa/image.png)](http://www.credly.com/badges/c9c2d527-1381-416f-9d85-b1a1f0dd7836 "Environmental Science (ENVS1001)")
+[![Macroeconomics (ECON1001)](https://images.credly.com/size/110x110/images/d64f2730-0c18-4c8b-ab45-001b09e4d86f/image.png)](http://www.credly.com/badges/65ae9dfa-da1a-493a-a6b9-9aa8f78f5a04 "Macroeconomics (ECON1001)")
 [![English Composition I (ENG1001)](https://images.credly.com/size/110x110/images/70b118fc-ca7f-4513-b55f-54ee93214edf/image.png)](http://www.credly.com/badges/1a4d6de8-bd48-4c4b-b213-9e4f9f991838 "English Composition I (ENG1001)")
 [![Microeconomics (ECON1002)](https://images.credly.com/size/110x110/images/48f1ccf5-31a8-4217-ba7e-6c5fc458bf31/image.png)](http://www.credly.com/badges/28d0f668-abc0-4e27-8f13-9c04e021ce8a "Microeconomics (ECON1002)")
 [![Project Management (PM1001)](https://images.credly.com/size/110x110/images/a48f3ef4-ad29-4a58-976d-49d1276ba883/image.png)](http://www.credly.com/badges/bc010fb5-9a75-4b1b-8708-00481c6e4767 "Project Management (PM1001)")
