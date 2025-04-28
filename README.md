@@ -29,6 +29,7 @@ I look forward to collaborating and building innovative solutions together. ✨
 ### Badges & Certificates
 
 <!--START_SECTION:badges-->
+[![Ancient Greek Philosophers (PHIL1001)](https://images.credly.com/size/110x110/images/2ee6cda8-79f0-476d-bbca-be1477d46999/image.png)](http://www.credly.com/badges/4e572cb0-0fef-4612-a18e-edb4f4742bb6 "Ancient Greek Philosophers (PHIL1001)")
 [![Introduction to Nutrition (HLTH1010)](https://images.credly.com/size/110x110/images/e3f74032-2b3b-4895-bfc9-37169e182ab3/image.png)](http://www.credly.com/badges/4d41bd8f-93e5-49ed-8679-fab77015016e "Introduction to Nutrition (HLTH1010)")
 [![Introduction to Chemistry (CHEM1001)](https://images.credly.com/size/110x110/images/f9bf9045-e662-4552-9de0-4f5b9fe029ab/blob)](http://www.credly.com/badges/6ace873c-199e-4aa5-8260-f20e8b6a8a3c "Introduction to Chemistry (CHEM1001)")
 [![Microbiology (SCIE1045)](https://images.credly.com/size/110x110/images/4da6a3ea-492f-4cf5-82b4-66e1e9cc3f8e/image.png)](http://www.credly.com/badges/a656f9e2-8ef3-4b15-beba-4da527e18d1a "Microbiology (SCIE1045)")
@@ -76,7 +77,6 @@ I look forward to collaborating and building innovative solutions together. ✨
 [![Google IT Support Professional Certificate (v2)](https://images.credly.com/size/110x110/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png)](http://www.credly.com/badges/77b55532-bd1d-4fbc-9bbd-3f32d79a4cef "Google IT Support Professional Certificate (v2)")
 [![Generative AI: Prompt Engineering](https://images.credly.com/size/110x110/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png)](http://www.credly.com/badges/f544ecb5-6717-44f3-8a1d-edb7a44410c3 "Generative AI: Prompt Engineering")
 [![Generative AI Essentials](https://images.credly.com/size/110x110/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png)](http://www.credly.com/badges/c7eed888-e9b3-4c17-ac67-9c23a4147a67 "Generative AI Essentials")
-[![Machine Learning with Python (V2)](https://images.credly.com/size/110x110/images/56c60565-e945-4bcd-b8a6-9b2f43e1b0d9/Coursera_20Machine_20Learning_20with_20Python_20V2.png)](http://www.credly.com/badges/025869c0-5892-4971-b60c-bd4187096546 "Machine Learning with Python (V2)")
 <!--END_SECTION:badges-->
 
 
