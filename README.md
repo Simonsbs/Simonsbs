@@ -29,6 +29,8 @@ I look forward to collaborating and building innovative solutions together. ✨
 ### Badges & Certificates
 
 <!--START_SECTION:badges-->
+[![Human Biology (HumBio1001 - 2022)](https://images.credly.com/size/110x110/images/bdfee462-eb6b-452d-ab62-d864e10b0f8d/image.png)](http://www.credly.com/badges/bf26ffde-19e6-4b48-bb86-449bec35aea5 "Human Biology (HumBio1001 - 2022)")
+[![Art History I (ARTHIST1001)](https://images.credly.com/size/110x110/images/16e8004a-de12-4fc9-8438-bc8f08da45e7/image.png)](http://www.credly.com/badges/3864342a-49e3-41c8-81ed-e1c3c79a5240 "Art History I (ARTHIST1001)")
 [![Ancient Greek Philosophers (PHIL1001)](https://images.credly.com/size/110x110/images/2ee6cda8-79f0-476d-bbca-be1477d46999/image.png)](http://www.credly.com/badges/4e572cb0-0fef-4612-a18e-edb4f4742bb6 "Ancient Greek Philosophers (PHIL1001)")
 [![Introduction to Nutrition (HLTH1010)](https://images.credly.com/size/110x110/images/e3f74032-2b3b-4895-bfc9-37169e182ab3/image.png)](http://www.credly.com/badges/4d41bd8f-93e5-49ed-8679-fab77015016e "Introduction to Nutrition (HLTH1010)")
 [![Introduction to Chemistry (CHEM1001)](https://images.credly.com/size/110x110/images/f9bf9045-e662-4552-9de0-4f5b9fe029ab/blob)](http://www.credly.com/badges/6ace873c-199e-4aa5-8260-f20e8b6a8a3c "Introduction to Chemistry (CHEM1001)")
@@ -75,8 +77,6 @@ I look forward to collaborating and building innovative solutions together. ✨
 [![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/c1426860-8205-4220-a0d5-5e6d4f07db17/blob)](http://www.credly.com/badges/d8faf060-c210-49bc-beeb-05c20be91b7e "Cybersecurity Essentials")
 [![Introduction to Cybersecurity Careers](https://images.credly.com/size/110x110/images/a33f51fa-d8f8-4d3d-9dff-464396e7da92/image.png)](http://www.credly.com/badges/8bf0f99c-cd01-4938-ad33-9185f3aa5b24 "Introduction to Cybersecurity Careers")
 [![Google IT Support Professional Certificate (v2)](https://images.credly.com/size/110x110/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png)](http://www.credly.com/badges/77b55532-bd1d-4fbc-9bbd-3f32d79a4cef "Google IT Support Professional Certificate (v2)")
-[![Generative AI: Prompt Engineering](https://images.credly.com/size/110x110/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png)](http://www.credly.com/badges/f544ecb5-6717-44f3-8a1d-edb7a44410c3 "Generative AI: Prompt Engineering")
-[![Generative AI Essentials](https://images.credly.com/size/110x110/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png)](http://www.credly.com/badges/c7eed888-e9b3-4c17-ac67-9c23a4147a67 "Generative AI Essentials")
 <!--END_SECTION:badges-->
 
 
